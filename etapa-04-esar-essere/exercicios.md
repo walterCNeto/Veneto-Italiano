@@ -1,42 +1,71 @@
-# Exercícios — Etapa 4
+# Exercícios de fixação — Etapa 4
 
-**A. Complete (afirmação 🦁):** os 10 da Aula 4.
-1. Eu sou um professor: Mi ___ mistro.
-2. Tu és daqui: Ti ___ ___ de cuà.
-3. Ele é alto: Łu ___ ___ alto.
-4. Ela está em casa: Eła ___ ___ caza.
-5. Nós estamos prontos: Nuantri ___ parecià.
-6. Vós sois fortes: Vualtri ___ forti.
-7. Eles estão na praça: Łori ___ ___ in piasa.
-8. Elas são boas: Łore ___ ___ brae.
+**1.** Complete a afirmação 🦁: a) Eu sou professor: Mi ___ mistro. b) Tu és daqui: Ti ___ ___ de cuà. c) Ele é alto: Łu ___ ___ alto. d) Ela está em casa: Eła ___ ___ caza.
 
-<details><summary>Gabarito A</summary>
+<details><summary>Gabarito 1</summary>
 
-1. son · 2. te si · 3. el ze · 4. ła ze · 5. semo · 6. si · 7. i ze · 8. łe ze
+a) son · b) te si · c) el ze · d) ła ze
 </details>
 
-**B. Agora em pergunta 🦁:**
-1. Eu sou professor? · 2. Tu és daqui? · 3. Ele é alto? · 4. Ela está em casa? · 5. Nós estamos prontos? · 6. Vós sois fortes? · 7. Eles estão na praça? · 8. Elas são boas?
+**2.** Continue: e) Nós estamos prontos: Nuantri ___ parecià. f) Vós sois fortes: Vualtri ___ forti. g) Eles estão na praça: Łori ___ ___ in piasa. h) Elas são boas: Łore ___ ___ brae.
 
-<details><summary>Gabarito B</summary>
+<details><summary>Gabarito 2</summary>
 
-1. Soi mi mistro? · 2. Sito ti de cuà? · 3. Zeło alto? · 4. Zeła eła caza? · 5. Semoi parecià? · 6. Sio vualtri forti? · 7. Zełi in piasa? · 8. Zełe brae?
+e) semo · f) si · g) i ze · h) łe ze
 </details>
 
-**C. Negue 🦁 e 🐺:**
-1. Eu não sou de Verona.
-2. Tu não és veneziano.
+**3.** Passe TODAS as oito para pergunta 🦁.
 
-<details><summary>Gabarito C</summary>
+<details><summary>Gabarito 3</summary>
 
-1. 🦁 Mi no son mìa de Varona · 🐺 Io non sono di Verona
-2. 🦁 Ti no te si mìa venesian · 🐺 Tu non sei veneziano
+Soi mi mistro? · Sito ti de cuà? · Zeło alto? · Zeła eła caza? · Semoi parecià? · Sio vualtri forti? · Zełi in piasa? · Zełe brae?
 </details>
 
-**D. Èsar ou star?** Escolha e traduza 🦁:
-1. Estou casado. · 2. Como você está? · 3. Fica aqui! · 4. Estou comendo.
+**4.** Negue nas duas línguas: "Eu não sou de Verona."
 
-<details><summary>Gabarito D</summary>
+<details><summary>Gabarito 4</summary>
 
-1. èsar → Mi son maridà · 2. star → Come steto? · 3. star → Stà cuà! · 4. èsar+drio → Son drio manjar
+🦁 Mi no son mìa de Varona · 🐺 Io non sono di Verona
+</details>
+
+**5.** Negue em pergunta 🦁: "tu não és?" — e diga qual palavra faz o papel do "pas" francês.
+
+<details><summary>Gabarito 5</summary>
+
+No te sito mìa ti? — o **mìa** é o reforço negativo, análogo ao *pas*.
+</details>
+
+**6.** Èsar ou star? Traduza 🦁: "Estou casado."
+
+<details><summary>Gabarito 6</summary>
+
+Èsar → **Mi son maridà** (estado civil usa ser, não estar).
+</details>
+
+**7.** Èsar ou star? Traduza 🦁 e 🐺: "Como você está?" / "Estou bem."
+
+<details><summary>Gabarito 7</summary>
+
+Star (saúde): 🦁 Come steto? / Stago ben · 🐺 Come stai? / Sto bene.
+</details>
+
+**8.** Traduza 🦁 e 🐺: "Fica aqui!"
+
+<details><summary>Gabarito 8</summary>
+
+Star (permanência): 🦁 Stà cuà! · 🐺 Stai qui!
+</details>
+
+**9.** "Estou comendo": dê a forma italiana e a vêneta, nomeando a estrutura de cada.
+
+<details><summary>Gabarito 9</summary>
+
+🐺 *Sto mangiando* (stare + gerúndio) · 🦁 *Son drio manjar* (èsar + drio + infinitivo — presente progressivo vêneto, tipo o francês *en train de*).
+</details>
+
+**10.** Qual é a variante de *el ze / ła ze* anotada pelo professor? Monte "ele é" e "ela é" nessa variante.
+
+<details><summary>Gabarito 10</summary>
+
+**l'è**: *łu l'è* · *eła l'è*.
 </details>

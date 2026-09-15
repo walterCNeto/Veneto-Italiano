@@ -1,30 +1,73 @@
-# Exercícios — Etapa 1
+# Exercícios de fixação — Etapa 1
 
-**A. Como se escreve em vêneto?** (aplique a regra S/Z)
-1. "casa" (som de zebra)
-2. "associação" (som de ss)
-3. "assassino"
-4. "nariz" (nazo/naso?)
+Responda **antes** de abrir cada gabarito.
 
-<details><summary>Gabarito A</summary>
+**1.** Aplique a regra S/Z e escreva em vêneto: "casa" (som de zebra), "nariz" (som de zebra), "assassino" (som de ss), "associação" (som de ss).
 
-1. caza — 2. asosiasion — 3. sasin — 4. nazo (som sonoro → Z)
+<details><summary>Gabarito 1</summary>
+
+caza · nazo · sasin · asosiasion — som sonoro → Z; som surdo → S.
 </details>
 
-**B. Vêneto ou italiano?** Diga a língua e a pista.
-1. pane · 2. pan · 3. grazie · 4. grasie · 5. manjar · 6. mangiare · 7. góndoła · 8. palla
+**2.** *Grasie* ou *grazie*: qual é a forma vêneta, e por quê?
 
-<details><summary>Gabarito B</summary>
+<details><summary>Gabarito 2</summary>
 
-1. ITA (vogal final) · 2. VEC (vogal caiu) · 3. ITA (z=ts) · 4. VEC (s surdo) · 5. VEC (NJ) · 6. ITA (GN não, aqui gi; vogal final) · 7. VEC (Ł) · 8. ITA (letra dupla)
+*Grasie*: o som é surdo ("grássie") e o S vêneto é sempre surdo. *Grazie* é italiano, com Z = "ts".
 </details>
 
-**C. Leia em voz alta, gravando-se (vocaroo.com):**
-łengua · góndoła · caza · grasie · manjar · zerman / pizza · lasagna · professore · esistere
+**3.** Identifique a língua pelo indício: (a) *pane* (b) *pan* (c) *manjar* (d) *bagno* (e) *góndoła* (f) *palla*.
 
-**D. Explique de cabeça:** por que o vêneto não pode ter "ss" nem "zz"?
+<details><summary>Gabarito 3</summary>
 
-<details><summary>Gabarito D</summary>
+(a) ITA — vogal final · (b) VEC — vogal caiu após N · (c) VEC — NJ · (d) ITA — GN · (e) VEC — Ł · (f) ITA — letra dupla.
+</details>
 
-Porque não existem letras duplicadas em vêneto: cada som tem uma letra só — S surdo, Z sonoro — então a dupla seria redundante.
+**4.** Como se pronuncia o Ł de *łengua*? E o L de *mela*?
+
+<details><summary>Gabarito 4</summary>
+
+Ł: som deslizado tipo "ea" ou mudo ("engua"/"eengua"). L italiano: sempre claro e pleno ("mé-la").
+</details>
+
+**5.** Por que o vêneto não pode ter "ss" nem "zz"?
+
+<details><summary>Gabarito 5</summary>
+
+Porque não existem letras duplicadas: cada som já tem sua letra exclusiva (S surdo, Z sonoro) — a dupla seria redundante.
+</details>
+
+**6.** Escreva a palavra vêneta para "comer" e a italiana para "senhor", marcando o dígrafo de cada uma.
+
+<details><summary>Gabarito 6</summary>
+
+*ma**nj**ar* (NJ vêneto) · *si**gn**ore* (GN italiano) — ambos soam "nh".
+</details>
+
+**7.** Que letra existe no alfabeto vêneto mas não no italiano? E no italiano mas não no vêneto?
+
+<details><summary>Gabarito 7</summary>
+
+Vêneto tem **J** (e Ł); italiano não. Italiano tem **Q**; vêneto não — por isso "quarentena" vêneta é *cuarantena*, com CU.
+</details>
+
+**8.** *Pizza* em italiano se pronuncia como? E se um vêneto escrevesse esse som final, usaria que letra?
+
+<details><summary>Gabarito 8</summary>
+
+"Pí-tsa" (ZZ = TZ). O som "ts" não existe no sistema vêneto — o Z vêneto é sempre o sonoro de "zebra"; um empréstimo seria adaptado.
+</details>
+
+**9.** Complete: em vêneto, as vogais finais caem principalmente após as consoantes ___, ___ e ___. Dê um exemplo com cada.
+
+<details><summary>Gabarito 9</summary>
+
+N, R, L — *can, profesor, (bocal→) bocał/val*; do material: can, pan (N), profesor (R).
+</details>
+
+**10.** Leia em voz alta e grave (vocaroo.com): *łengua · góndoła · caza · grasie · manjar · zerman · pizza · lasagna · professore*. Depois ouça conferindo: Ł deslizado? Z e S vênetos certos? Duplas italianas alongadas?
+
+<details><summary>Autoavaliação 10</summary>
+
+Checklist: (1) *góndoła* sem L pleno; (2) *caza/zerman* com Z de zebra; (3) *grasie* com "ss"; (4) *pizza* com "ts"; (5) *lasagna* com "nh"; (6) *professore* com FF e SS longos.
 </details>

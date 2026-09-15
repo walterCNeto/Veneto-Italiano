@@ -1,48 +1,71 @@
-# Exercícios — Etapa 3
+# Exercícios de fixação — Etapa 3
 
-**A. Complete com o clítico correto (te, el, ła, i, łe):**
-1. Ti ___ si de Pàdoa.
-2. Marco ___ parla veneto.
-3. Marìa ___ ze braa.
-4. Łori ___ ze in piasa.
-5. Łe tóze (as moças) ___ canta.
+**1.** Complete com o clítico correto (te, el, ła, i, łe): a) Ti ___ si de Pàdoa. b) Marco ___ parla veneto. c) Marìa ___ ze braa. d) Łori ___ ze in piasa. e) Łe tóze ___ canta.
 
-<details><summary>Gabarito A</summary>
+<details><summary>Gabarito 1</summary>
 
-1. te · 2. el · 3. ła · 4. i · 5. łe
+a) te · b) el · c) ła · d) i · e) łe
 </details>
 
-**B. Certo ou errado? Corrija:**
-1. Łu ze alto.
-2. Ti te si forte.
-3. Lui el è stanco. (italiano?)
-4. Eła ła ze caza.
+**2.** Certo ou errado? Corrija: **Łu ze alto.**
 
-<details><summary>Gabarito B</summary>
+<details><summary>Gabarito 2</summary>
 
-1. ERRADO → Łu **el** ze alto (falta clítico)
-2. CERTO
-3. ERRADO → italiano não usa clítico: Lui è stanco
-4. CERTO (ela está em casa)
+Errado — falta o clítico: **Łu el ze alto.**
 </details>
 
-**C. Traduza para as DUAS línguas:**
-1. Ele é alto.
-2. Ela está em casa.
-3. Eles estão na praça.
-4. Ele tem (usar ga/ha) um gato.
+**3.** Certo ou errado? Corrija: **Lui el è stanco.** (italiano)
 
-<details><summary>Gabarito C</summary>
+<details><summary>Gabarito 3</summary>
 
-1. 🦁 Łu el ze alto · 🐺 (Lui) è alto
-2. 🦁 Eła ła ze caza · 🐺 (Lei) è a casa
-3. 🦁 Łori i ze in piasa · 🐺 (Loro) sono in piazza
-4. 🦁 Łu el ga un gato · 🐺 (Lui) ha un gatto
+Errado — italiano não tem clítico de sujeito: **Lui è stanco** (ou só *È stanco*).
 </details>
 
-**D. De cabeça:** de que palavra latina vêm "ze" e "è"? E "ga" e "ha"?
+**4.** Por que *Marco el parla* leva "el" se o sujeito "Marco" já está dito?
 
-<details><summary>Gabarito D</summary>
+<details><summary>Gabarito 4</summary>
 
-ze/è ← *est* · ga/ha ← *habet*
+Porque o clítico é obrigatório: funciona como concordância grudada ao verbo, não como pronome substituto. Nome + clítico convivem sempre.
+</details>
+
+**5.** Traduza para as DUAS línguas: "Ela está em casa."
+
+<details><summary>Gabarito 5</summary>
+
+🦁 Eła ła ze caza · 🐺 (Lei) è a casa
+</details>
+
+**6.** Traduza para as DUAS línguas: "Eles estão na praça."
+
+<details><summary>Gabarito 6</summary>
+
+🦁 Łori i ze in piasa · 🐺 (Loro) sono in piazza
+</details>
+
+**7.** Traduza para as DUAS línguas: "Ele tem um gato."
+
+<details><summary>Gabarito 7</summary>
+
+🦁 Łu el ga un gato · 🐺 (Lui) ha un gatto
+</details>
+
+**8.** De que palavra latina vêm *ze* e *è*? O que cada língua fez com a consoante?
+
+<details><summary>Gabarito 8</summary>
+
+De *est*. O vêneto transformou o S em som de Z (*ze*); o toscano deixou a consoante cair (*è*).
+</details>
+
+**9.** De que palavra latina vêm *ga* e *ha*? Idem.
+
+<details><summary>Gabarito 9</summary>
+
+De *habet*. O vêneto endureceu o B em G (*ga*); o italiano perdeu H e B (*ha*).
+</details>
+
+**10.** Em qual ponto a gramática vêneta se parece mais com o francês do que com o italiano? Dê o exemplo francês análogo.
+
+<details><summary>Gabarito 10</summary>
+
+Nos clíticos obrigatórios de sujeito (e, adiante, na inversão interrogativa): fr. *il parle / parles-tu?* ~ vec. *el parla / pàrlito?* — comportamento galo-românico.
 </details>

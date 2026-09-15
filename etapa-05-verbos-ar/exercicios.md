@@ -1,44 +1,71 @@
-# Exercícios — Etapa 5
+# Exercícios de fixação — Etapa 5
 
-**A. Conjugue INPISAR (ligar) 🦁 completo, com clíticos:**
+**1.** Conjugue INPISAR (ligar) 🦁 completo, com todos os clíticos.
 
-<details><summary>Gabarito A</summary>
+<details><summary>Gabarito 1</summary>
 
 Mi inpiso · Ti te inpisi · Łu el inpisa · Eła ła inpisa · Nuantri inpisemo · Vualtri inpisè · Łori i inpisa · Łore łe inpisa
 </details>
 
-**B. Complete:**
-1. Mi ___ (cantar)
-2. Ti te ___ (parlar)
-3. Eła ła ___ (ciapar)
-4. Nuantri ___ (cantar)
-5. Vualtri ___ (parlar)
-6. Łori i ___ (cantar)
+**2.** Complete 🦁: a) Mi ___ (cantar) b) Ti te ___ (parlar) c) Eła ła ___ (ciapar) d) Nuantri ___ (cantar).
 
-<details><summary>Gabarito B</summary>
+<details><summary>Gabarito 2</summary>
 
-1. canto · 2. parli · 3. ciapa · 4. cantemo · 5. parlè · 6. canta
+a) canto · b) parli · c) ciapa · d) cantemo
 </details>
 
-**C. Mesmas frases em italiano 🐺:**
-1. io ___ (cantare) · 2. tu ___ (parlare) · 3. lei ___ (prendere→ use parlare: ela fala) · 4. noi ___ (cantare) · 5. voi ___ (parlare) · 6. loro ___ (cantare)
+**3.** Complete 🦁: e) Vualtri ___ (parlar) f) Łori i ___ (cantar) g) Łore łe ___ (inpisar).
 
-<details><summary>Gabarito C</summary>
+<details><summary>Gabarito 3</summary>
 
-1. canto · 2. parli · 3. parla · 4. cantiamo · 5. parlate · 6. cantano
+e) parlè · f) canta · g) inpisa
 </details>
 
-**D. Vènjar:** traduza 🦁
-1. Eu venho. · 2. Ele vem. · 3. Nós vimos (viemos). · 4. Eles vêm.
+**4.** Mesmas pessoas em italiano 🐺: io/tu/lei/noi/voi/loro de CANTARE.
 
-<details><summary>Gabarito D</summary>
+<details><summary>Gabarito 4</summary>
 
-1. Mi venjo · 2. Łu el vien · 3. Nuantri venjemo · 4. Łori i vien
+canto · canti · canta · cantiamo · cantate · cantano
 </details>
 
-**E. Detector de armadilha:** "łori i canta" e "łu el canta" têm o mesmo verbo. Como sei quem é plural?
+**5.** "Łori i canta" e "łu el canta" têm o mesmo verbo. Como sei quem é plural? E como o italiano resolve?
 
-<details><summary>Gabarito E</summary>
+<details><summary>Gabarito 5</summary>
 
-Pelo clítico: **i** = eles, **el** = ele. No vêneto o verbo da 3ª não muda; a informação está no clítico.
+Pelo clítico: **i** = eles, **el** = ele. O italiano muda o verbo: *canta / cantano*.
+</details>
+
+**6.** Por que "*i ciapano*" está errado em vêneto?
+
+<details><summary>Gabarito 6</summary>
+
+A 3ª do plural vêneta é idêntica à do singular (*i ciapa*); a desinência *-ano* é italiana e não existe no vêneto.
+</details>
+
+**7.** Dê o "nós" vêneto de: ciapar, parlar, cantar, inpisar, rivar.
+
+<details><summary>Gabarito 7</summary>
+
+ciapemo · parlemo · cantemo · inpisemo · rivemo — sempre **-emo**.
+</details>
+
+**8.** Dê o "vós" vêneto e o italiano de PARLAR/PARLARE.
+
+<details><summary>Gabarito 8</summary>
+
+🦁 parlè (-è) · 🐺 parlate (-ate)
+</details>
+
+**9.** Conjugue VÈNJAR 🦁 e aponte onde a raiz muda.
+
+<details><summary>Gabarito 9</summary>
+
+venjo · te venji/vien · el vien · ła vien · venjemo · venjì · i vien · łe vien — alterna *venj-* (eu, nós, vós) / *vien-* (3ª e variante do tu), como it. *vengo/viene*.
+</details>
+
+**10.** Traduza 🦁: a) Eu venho. b) Ele chega. c) Nós vimos (viemos). d) Elas vêm. e) Vós chegais.
+
+<details><summary>Gabarito 10</summary>
+
+a) Mi venjo · b) Łu el riva · c) Nuantri venjemo · d) Łore łe vien · e) Vualtri rivì
 </details>

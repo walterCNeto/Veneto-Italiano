@@ -1,47 +1,71 @@
-# Exercícios — Etapa 2
+# Exercícios de fixação — Etapa 2
 
-**A. Responda no mesmo registro e língua** (devolvendo pergunta quando couber):
-1. Sciavo vostro!
-2. Come stai?
-3. Come stéu vu?
-4. Sto ben mi.
-5. Gramersè.
-6. La ringrazio.
-7. Me toca ndar via.
+**1.** Traduza para o vêneto coloquial: a) Olá! b) Como vai? c) Estou bem. E você? d) Obrigado. e) Tchau, fica bem.
 
-<details><summary>Gabarito A</summary>
+<details><summary>Gabarito 1</summary>
 
-1. Sciavo vostro! Come stéu vu?
-2. Sto bene, grazie. E tu, come stai?
-3. Sto ben mi. E vu, che niove me ła meneviu?
-4. Ben! E vu, che niove me ła meneviu? (ou: E ti, cosa dìzito? se informal)
-5. No'l ze njente.
-6. Non c'è di che, si figuri.
-7. Sté ben. Sté co Dio. (formal) / Stame ben. Ciai! (informal)
+a) Sani! · b) Come steto? / Come vała? · c) Sto ben mi. E ti, cosa dìzito? · d) Grasie · e) Ciai! Stame ben.
 </details>
 
-**B. Traduza — coloquial 🦁:**
-a. Olá! · b. Como vai? · c. Estou bem. E você? · d. Obrigado · e. Tchau, fica bem
+**2.** Traduza para o italiano formal: a) Olá, como o senhor está? b) Preciso ir. Até logo. c) Agradeço muito. d) Não há de quê, imagine.
 
-<details><summary>Gabarito B</summary>
+<details><summary>Gabarito 2</summary>
 
-a. Sani! · b. Come steto? / Come vała? · c. Sto ben mi. E ti, cosa dìzito? · d. Grasie · e. Ciai! Stame ben
+a) Salve! Come sta? · b) Devo andare. Arrivederci! · c) La ringrazio molto · d) Non c'è di che, si figuri.
 </details>
 
-**C. Traduza — formal 🐺:**
-a. Olá, como o senhor está? · b. Preciso ir. Até logo · c. Agradeço muito · d. Não há de quê, imagine
+**3.** Responda no mesmo registro/língua, devolvendo pergunta quando couber: **Sciavo vostro!**
 
-<details><summary>Gabarito C</summary>
+<details><summary>Gabarito 3</summary>
 
-a. Salve! Come sta? · b. Devo andare. Arrivederci! · c. La ringrazio molto · d. Non c'è di che, si figuri
+Sciavo vostro! Come stéu vu? (versão completa: Sior paron, sciavo vostro. Come stéu vu?)
 </details>
 
-**D. Pegadinhas:**
-1. "Fiquem bem" (plural!) em vêneto = ?
-2. Grasie ou Grazie: qual é vêneto?
-3. Qual palavra é formal em vêneto mas virou informal em italiano?
+**4.** Responda: **Come stéu vu?**
 
-<details><summary>Gabarito D</summary>
+<details><summary>Gabarito 4</summary>
 
-1. Steme ben (Stame = singular) · 2. Grasie (S surdo) · 3. Sciavo (vostro) → ciao
+Sto ben mi. E vu, che niove me ła meneviu?
+</details>
+
+**5.** Responda: **Gramersè.** E depois: **La ringrazio.**
+
+<details><summary>Gabarito 5</summary>
+
+Gramersè → No'l ze njente (ou Ve son servo). · La ringrazio → Non c'è di che, si figuri.
+</details>
+
+**6.** "Fiquem bem" (plural) em vêneto: *Stame ben* ou *Steme ben*? Explique a diferença.
+
+<details><summary>Gabarito 6</summary>
+
+**Steme ben** — *Stame* é singular (tu), *Steme* é plural. O *-me* é o dativo ético, afeto sem função gramatical.
+</details>
+
+**7.** Que palavra é FORMAL em vêneto mas virou INFORMAL em italiano? Conte o trajeto.
+
+<details><summary>Gabarito 7</summary>
+
+*Sciavo (vostro)* "vosso servo" → desgaste → *s-ciao* → **ciao** (informal universal); no vêneto moderno, **ciai**.
+</details>
+
+**8.** Compare a obrigação: como se diz "tenho que ir" nas duas línguas, e qual é a diferença estrutural?
+
+<details><summary>Gabarito 8</summary>
+
+🦁 *Me toca ndar via* — construção impessoal ("me toca"). 🐺 *Devo andare* — verbo pessoal conjugado. E *ndar* = *andare* com aférese.
+</details>
+
+**9.** Qual fórmula vêneta é o "ancestral" do nosso "obrigado"? Traduza-a literalmente.
+
+<details><summary>Gabarito 9</summary>
+
+*Ve son obligà* = "vos sou obrigado". O português manteve só o particípio.
+</details>
+
+**10.** Encene de cabeça (falando!) o diálogo completo nos 4 formatos: 🦁 informal, 🦁 formal, 🐺 informal, 🐺 formal. Grave e confira com as tabelas.
+
+<details><summary>Roteiro de conferência 10</summary>
+
+Cada versão precisa ter: saudação → como vai? → resposta com devolução → despedida em duas partes (aviso + fórmula). Formal vêneto com *vu* (stéu/sté), formal italiano com *Lei* (sta/si prenda).
 </details>

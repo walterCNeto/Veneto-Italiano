@@ -1,22 +1,32 @@
 # Etapa 5 — Verbos regulares em -AR / -ARE
 
-Um molde para todos: **ciapar** (pegar) → troque a raiz: *parlar, cantar, inpisar* (ligar)…
+> **Objetivo:** dominar o molde que conjuga qualquer verbo regular da primeira conjugação. Aprendeu um (*ciapar*, pegar), aprendeu centenas: *parlar, cantar, inpisar* (ligar), *rivar* (chegar)…
 
-| Pessoa | 🦁 Ciapar | Terminação | 🐺 Parlare |
+## O molde
+
+| Pessoa | 🦁 Ciapar | Terminação 🦁 | 🐺 Parlare |
 |---|---|---|---|
-| mi | mi ciapo | **-o** | io parlo |
-| ti | ti **te** ciapi | **-i** | tu parli |
-| łu / eła | łu **el** ciapa · eła **ła** ciapa | **-a** | lui/lei parla |
-| nuantri | ciapemo | **-emo** | noi parliamo |
-| vualtri | ciapè | **-è** | voi parlate |
-| łori / łore | łori **i** ciapa · łore **łe** ciapa | **-a** | loro parlano |
+| mi | mi ciap**o** | **-o** | io parl**o** |
+| ti | ti **te** ciap**i** | **-i** | tu parl**i** |
+| łu / eła | łu **el** ciap**a** · eła **ła** ciap**a** | **-a** | lui/lei parl**a** |
+| nuantri | ciap**emo** | **-emo** | noi parl**iamo** |
+| vualtri | ciap**è** | **-è** | voi parl**ate** |
+| łori / łore | łori **i** ciap**a** · łore **łe** ciap**a** | **-a** | loro parl**ano** |
 
-## Armadilhas
+Os clíticos da Etapa 3 continuam obrigatórios: *ti **te** ciapi, łu **el** ciapa, łori **i** ciapa*.
 
-1. 🦁 3ª plural = 3ª singular (*el ciapa / i ciapa*) — o **clítico** marca o plural. 🐺 o verbo muda: *parla / parlano*.
-2. 🦁 "nós" é **-emo** para todo -ar (*ciapemo, parlemo, cantemo*); 🐺 é *-iamo*.
+## As duas armadilhas
 
-## Vènjar (vir) — irregular leve
+**1. A 3ª do plural vêneta é igual à do singular.** *El ciapa* (ele pega) e *i ciapa* (eles pegam) têm o mesmo verbo — quem carrega a informação de número é o **clítico** (*el/ła* singular, *i/łe* plural). No italiano é o verbo que muda: *parla / parlano*. Quem vem do italiano tende a inventar um "*ciapano*" vêneto que não existe.
 
-mi venjo · ti te venji/**vien** · el/ła **vien** · venjemo · venjì · i/łe **vien**
-(comparar *rivar*, chegar, regular: rivo, rivi, riva, rivemo, rivì, riva)
+**2. O "nós" é -emo para todo verbo em -ar.** *Ciapemo, parlemo, cantemo, inpisemo* — regular e previsível. O italiano tem *-iamo* (*parliamo, cantiamo*). E o "vós" vêneto é o enxuto **-è** (*ciapè, parlè, cantè*) contra o italiano *-ate* (*parlate*).
+
+## Vènjar (vir) — o primeiro irregular, leve
+
+> mi venjo · ti te venji / **vien** · łu el **vien** · eła ła **vien** · nuantri venjemo · vualtri venjì · łori i **vien** · łore łe **vien**
+
+A raiz alterna *venj-/vien-* (como o italiano *vengo/viene*). Compare com o regular **rivar** (chegar): *rivo, rivi, riva, rivemo, rivì, riva* — molde puro.
+
+## Critério para avançar
+
+Conjugar *parlar* e *cantar* de cabeça só pelas terminações, e *inpisar* por escrito conferindo com a Aula 4.

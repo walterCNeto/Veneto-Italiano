@@ -1,42 +1,71 @@
-# Exercícios — Etapa 6
+# Exercícios de fixação — Etapa 6
 
-**A. Transforme em pergunta:**
-1. Mi parlo → ?
-2. Ti te canti → ?
-3. Eła ła inpisa → ?
-4. Nuantri ciapemo → ?
-5. Vualtri parlè → ?
-6. Łori i canta → ?
-7. Mi poso → ?
-8. Łu el vien → ?
+**1.** Transforme em pergunta: a) Mi parlo b) Ti te canti c) Eła ła inpisa d) Nuantri ciapemo.
 
-<details><summary>Gabarito A</summary>
+<details><summary>Gabarito 1</summary>
 
-1. Pàrloi mi? · 2. Càntito ti? · 3. Inpìseła eła? · 4. Ciapemoi nuantri? · 5. Parlèo vualtri? · 6. Càntełi łori? · 7. Pòsoi? · 8. Vènjeło łu?
+a) Pàrloi mi? · b) Càntito ti? · c) Inpìseła eła? · d) Ciapemoi nuantri?
 </details>
 
-**B. As 8 perguntas com objeto (Aula 4):** traduza
-1. Eu pego o livro? · 2. Tu pegas a bola? · 3. Ele pega o gato? · 4. Ela pega o cão? · 5. Nós pegamos o trem? · 6. Vós pegais o caminho longo? · 7. Eles pegam o pão? · 8. Elas pegam as roupas?
+**2.** Transforme em pergunta: e) Vualtri parlè f) Łori i canta g) Łu el vien h) Mi poso.
 
-<details><summary>Gabarito B</summary>
+<details><summary>Gabarito 2</summary>
 
-1. Ciàpoi mi el łibro? · 2. Ciàpito ti ła bała? · 3. Ciàpeło łu el gato? · 4. Ciàpeła eła el can? · 5. Ciapemoi nuantri el tren? · 6. Ciapèo vualtri ła strada łonga? · 7. Ciàpełi łori el pan? · 8. Ciàpełe łore łe robe?
+e) Parlèo vualtri? · f) Càntełi łori? · g) Vènjeło łu? · h) Pòsoi?
 </details>
 
-**C. Situação de aula — o que você diz para:**
-1. perguntar como se diz "obrigado"
-2. perguntar o que "sciavo" quer dizer
-3. pedir para fazer uma pergunta
-4. dizer que não entendeu nada
+**3.** As 8 perguntas com objeto da Aula 4 — traduza: Eu pego o livro? / Tu pegas a bola? / Ele pega o gato? / Ela pega o cão?
 
-<details><summary>Gabarito C</summary>
+<details><summary>Gabarito 3</summary>
 
-1. Come se dìzeło "obrigado" in veneto? · 2. Come vółeło dir "sciavo"? · 3. Pòsoi far na dimanda? · 4. No go capìo njente.
+Ciàpoi mi el łibro? · Ciàpito ti ła bała? · Ciàpeło łu el gato? · Ciàpeła eła el can?
 </details>
 
-**D. Por que "zberéghito?" e não "zberegh-to"?**
+**4.** Continue: Nós pegamos o trem? / Vós pegais o caminho longo? / Eles pegam o pão? / Elas pegam as roupas?
 
-<details><summary>Gabarito D</summary>
+<details><summary>Gabarito 4</summary>
 
-A terminação de "ti" é **-ito** inteira, colada à raiz: zberegh(i) + ito → zberéghito. O clítico interrogativo forma um bloco fixo com o verbo.
+Ciapemoi nuantri el tren? · Ciapèo vualtri ła strada łonga? · Ciàpełi łori el pan? · Ciàpełe łore łe robe?
+</details>
+
+**5.** Dado o verbo ZBEREGAR (gritar), monte: "eu grito?" e "tu gritas?".
+
+<details><summary>Gabarito 5</summary>
+
+Zberégoi? · Zberéghito? — afirmativo + terminação (-oi, -ito).
+</details>
+
+**6.** Qual é a diferença entre *dizito?* e *dìzeło?*
+
+<details><summary>Gabarito 6</summary>
+
+*dizito?* = "dizes (tu)?" (-ito) · *dìzeło?* = "diz (ele)?" (-eło), inclusive no impessoal *come se dìzeło?* = "como se diz?".
+</details>
+
+**7.** Situação de aula — diga em vêneto: a) perguntar como se diz "obrigado" b) perguntar o que "sciavo" quer dizer.
+
+<details><summary>Gabarito 7</summary>
+
+a) Come se dìzeło "obrigado" in veneto? · b) Come vółeło dir "sciavo"?
+</details>
+
+**8.** Situação de aula: c) pedir para fazer uma pergunta d) dizer que não entendeu nada.
+
+<details><summary>Gabarito 8</summary>
+
+c) Pòsoi far na dimanda? · d) No go capìo njente.
+</details>
+
+**9.** Compare as três línguas na pergunta "tu falas?": vêneto, italiano, francês. O que o vêneto e o francês têm em comum?
+
+<details><summary>Gabarito 9</summary>
+
+🦁 *Pàrlito (ti)?* · 🐺 *Parli? / Tu parli?* (só entonação) · 🇫🇷 *Parles-tu?* — vêneto e francês conservam a inversão sujeito–verbo; o vêneto a soldou numa terminação.
+</details>
+
+**10.** Por que *steto?* dispensa o "ti", mas *e ti, cosa dizito?* o inclui?
+
+<details><summary>Gabarito 10</summary>
+
+A terminação -to já identifica a pessoa (tu), então o tônico é redundante; entra só para ênfase/contraste ("e VOCÊ?").
 </details>
