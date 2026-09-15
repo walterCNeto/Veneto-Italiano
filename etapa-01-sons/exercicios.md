@@ -5,34 +5,74 @@
 Responda todas antes de abrir o gabarito no final.
 
 **1.** Como se escreve "casa" em vêneto (som de zebra)?
-a) cassa  b) casa  c) caza  d) cazza
+
+a) cassa  
+b) casa  
+c) caza  
+d) cazza  
 
 **2.** Qual é a forma vêneta de "obrigado"?
-a) grazie  b) grasie  c) grassie  d) gratzie
+
+a) grazie  
+b) grasie  
+c) grassie  
+d) gratzie  
 
 **3.** Qual palavra é ITALIANA?
-a) pan  b) can  c) manjar  d) pane
+
+a) pan  
+b) can  
+c) manjar  
+d) pane  
 
 **4.** O Ł de *góndoła* soa como:
-a) L pleno e claro  b) "ea" deslizado ou mudo  c) LH do português  d) R fraco
+
+a) L pleno e claro  
+b) "ea" deslizado ou mudo  
+c) LH do português  
+d) R fraco  
 
 **5.** Por que o vêneto NÃO tem "ss" nem "zz"?
-a) porque são letras estrangeiras  b) porque não existem letras duplicadas: cada som já tem sua letra  c) porque S e Z não existem em vêneto  d) por influência do francês
+
+a) porque são letras estrangeiras  
+b) porque não existem letras duplicadas: cada som já tem sua letra  
+c) porque S e Z não existem em vêneto  
+d) por influência do francês  
 
 **6.** O som "nh" se escreve, em vêneto e em italiano, respectivamente:
-a) GN e NJ  b) NH e GN  c) NJ e GN  d) NJ e NH
+
+a) GN e NJ  
+b) NH e GN  
+c) NJ e GN  
+d) NJ e NH  
 
 **7.** Que letra o alfabeto vêneto TEM e o italiano NÃO tem?
-a) Q  b) K  c) J  d) W
+
+a) Q  
+b) K  
+c) J  
+d) W  
 
 **8.** *Pizza* em italiano se pronuncia:
-a) "pí-za" (z de zebra)  b) "pí-tsa" (ZZ = TZ)  c) "pí-ssa"  d) "pí-dja"
+
+a) "pí-za" (z de zebra)  
+b) "pí-tsa" (ZZ = TZ)  
+c) "pí-ssa"  
+d) "pí-dja"  
 
 **9.** As vogais finais vênetas caem principalmente após:
-a) M, P, T  b) N, R, L  c) S, Z, J  d) todas as consoantes
+
+a) M, P, T  
+b) N, R, L  
+c) S, Z, J  
+d) todas as consoantes  
 
 **10.** *Sasin* (assassino) se escreve com um S só porque:
-a) é abreviação  b) o vêneto não tem duplas e o som surdo se escreve S  c) erro do material  d) o segundo S virou Z
+
+a) é abreviação  
+b) o vêneto não tem duplas e o som surdo se escreve S  
+c) erro do material  
+d) o segundo S virou Z  
 
 ---
 

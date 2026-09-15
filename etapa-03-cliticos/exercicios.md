@@ -3,34 +3,74 @@
 [← Voltar à lição](licao.md) · [🏠 Trilha](../README.md)
 
 **1.** Complete: Marco ___ parla veneto.
-a) (nada)  b) el  c) lo  d) il
+
+a) (nada)  
+b) el  
+c) lo  
+d) il  
 
 **2.** Complete: Łe tóze ___ canta.
-a) łe  b) i  c) ła  d) el
+
+a) łe  
+b) i  
+c) ła  
+d) el  
 
 **3.** Qual frase vêneta está CORRETA?
-a) Łu ze alto  b) Łu el ze alto  c) El łu ze alto  d) Łu è alto
+
+a) Łu ze alto  
+b) Łu el ze alto  
+c) El łu ze alto  
+d) Łu è alto  
 
 **4.** Qual frase italiana está CORRETA?
-a) Lui el è stanco  b) Lui è stanco  c) Lui ze stanco  d) El è stanco
+
+a) Lui el è stanco  
+b) Lui è stanco  
+c) Lui ze stanco  
+d) El è stanco  
 
 **5.** A regra do sujeito em vêneto:
-a) sujeito opcional e nulo  b) sujeito exige reforço obrigatório: o pronome clítico  c) nunca se usa pronome  d) clítico só em ambiguidade
+
+a) sujeito opcional e nulo  
+b) sujeito exige reforço obrigatório: o pronome clítico  
+c) nunca se usa pronome  
+d) clítico só em ambiguidade  
 
 **6.** Em *Marco el parla*, o "el" aparece porque:
-a) "Marco" é estrangeiro  b) o clítico é concordância obrigatória, mesmo com sujeito expresso  c) ênfase opcional  d) marca de pergunta
+
+a) "Marco" é estrangeiro  
+b) o clítico é concordância obrigatória, mesmo com sujeito expresso  
+c) ênfase opcional  
+d) marca de pergunta  
 
 **7.** "Ze" e "è" vêm do latim:
-a) *habet*  b) *sedet*  c) *est*  d) *stat*
+
+a) *habet*  
+b) *sedet*  
+c) *est*  
+d) *stat*  
 
 **8.** "Ga" e "ha" vêm do latim:
-a) *est*  b) *habet*  c) *facit*  d) *dat*
+
+a) *est*  
+b) *habet*  
+c) *facit*  
+d) *dat*  
 
 **9.** No caminho de *habet* → *ga*, o vêneto:
-a) perdeu tudo  b) endureceu o B em G, mantendo consoante forte  c) trocou H por G  d) copiou do alemão
+
+a) perdeu tudo  
+b) endureceu o B em G, mantendo consoante forte  
+c) trocou H por G  
+d) copiou do alemão  
 
 **10.** Nos clíticos obrigatórios, o vêneto se parece mais com:
-a) o italiano  b) o espanhol  c) o francês (galo-românico)  d) o latim clássico
+
+a) o italiano  
+b) o espanhol  
+c) o francês (galo-românico)  
+d) o latim clássico  
 
 ---
 
