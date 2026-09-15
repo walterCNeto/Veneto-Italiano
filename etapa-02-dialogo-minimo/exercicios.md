@@ -1,5 +1,7 @@
 # Exercícios de fixação — Etapa 2 (10 questões · mínimo para avançar: 8/10)
 
+[← Voltar à lição](licao.md) · [🏠 Trilha](../README.md)
+
 **1.** "Olá" informal em vêneto:
 a) Ciao  b) Salve  c) Sani  d) Prego
 
@@ -49,3 +51,7 @@ a) Gramersè  b) Dio ve ło renda  c) Ve son obligà  d) Grasie tanto
 
 **Sua nota:** ___/10 → ≥ 8: Etapa 3 · < 8: refaça amanhã.
 </details>
+
+---
+
+**Fez ≥ 8/10?** [➡️ Avance: Etapa 3 — Clíticos de sujeito](../etapa-03-cliticos/licao.md)

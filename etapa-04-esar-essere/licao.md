@@ -42,3 +42,9 @@ Nas duas línguas, **èsar/essere** cobre o que o português divide em ser E est
 ## Critério para avançar
 
 Recitar o èsar completo (afirmativo → interrogativo → negativo) e traduzir os 10 exemplos da Aula 4 nos dois modos.
+
+---
+
+## ✍️ [FAZER OS EXERCÍCIOS DESTA ETAPA →](exercicios.md)
+
+[🏠 Trilha](../README.md) · [← Etapa anterior](../etapa-03-cliticos/licao.md) · [Próxima etapa →](../etapa-05-verbos-ar/licao.md)

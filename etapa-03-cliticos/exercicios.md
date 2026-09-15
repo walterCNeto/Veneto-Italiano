@@ -1,5 +1,7 @@
 # Exercícios de fixação — Etapa 3 (10 questões · mínimo para avançar: 8/10)
 
+[← Voltar à lição](licao.md) · [🏠 Trilha](../README.md)
+
 **1.** Complete: Marco ___ parla veneto.
 a) (nada)  b) el  c) lo  d) il
 
@@ -49,3 +51,7 @@ a) o italiano  b) o espanhol  c) o francês (galo-românico)  d) o latim clássi
 
 **Sua nota:** ___/10 → ≥ 8: Etapa 4 · < 8: refaça amanhã.
 </details>
+
+---
+
+**Fez ≥ 8/10?** [➡️ Avance: Etapa 4 — Èsar / Essere](../etapa-04-esar-essere/licao.md)

@@ -54,3 +54,9 @@ Note o *zeło drio ciacołar* — "está conversando", o progressivo com **drio*
 ## Critério de conclusão do ciclo
 
 Encenar os dois diálogos de cabeça fazendo os dois papéis, gravar-se, e responder o Rento el muzèo sem consulta. Fechou? **Ciclo Básico concluído. Sté ben!** 🦁🐺
+
+---
+
+## ✍️ [FAZER OS EXERCÍCIOS DESTA ETAPA →](exercicios.md)
+
+[🏠 Trilha](../README.md) · [← Etapa anterior](../etapa-07-primeiras-frases/licao.md)

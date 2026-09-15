@@ -49,3 +49,9 @@ Note as respostas formais ao "como vai": o vêneto pergunta **che niove me ła m
 ## Critério para avançar
 
 Encenar o diálogo completo (4 passos + agradecimento) de cabeça: vêneto informal, vêneto formal, italiano informal, italiano formal.
+
+---
+
+## ✍️ [FAZER OS EXERCÍCIOS DESTA ETAPA →](exercicios.md)
+
+[🏠 Trilha](../README.md) · [← Etapa anterior](../etapa-01-sons/licao.md) · [Próxima etapa →](../etapa-03-cliticos/licao.md)

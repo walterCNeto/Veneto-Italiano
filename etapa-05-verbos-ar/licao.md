@@ -30,3 +30,9 @@ A raiz alterna *venj-/vien-* (como o italiano *vengo/viene*). Compare com o regu
 ## Critério para avançar
 
 Conjugar *parlar* e *cantar* de cabeça só pelas terminações, e *inpisar* por escrito conferindo com a Aula 4.
+
+---
+
+## ✍️ [FAZER OS EXERCÍCIOS DESTA ETAPA →](exercicios.md)
+
+[🏠 Trilha](../README.md) · [← Etapa anterior](../etapa-04-esar-essere/licao.md) · [Próxima etapa →](../etapa-06-interrogativa/licao.md)

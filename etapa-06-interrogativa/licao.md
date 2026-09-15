@@ -37,3 +37,9 @@ Toda a "linguagem de sobrevivência" do curso usa essa gramática:
 ## Critério para avançar
 
 Transformar em pergunta, oralmente e sem pausa: *mi parlo, ti te canti, eła ła inpisa, nuantri ciapemo* — e usar as 5 fórmulas numa simulação de aula.
+
+---
+
+## ✍️ [FAZER OS EXERCÍCIOS DESTA ETAPA →](exercicios.md)
+
+[🏠 Trilha](../README.md) · [← Etapa anterior](../etapa-05-verbos-ar/licao.md) · [Próxima etapa →](../etapa-07-primeiras-frases/licao.md)

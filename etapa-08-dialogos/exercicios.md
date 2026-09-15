@@ -1,5 +1,7 @@
 # Exercícios de fixação — Etapa 8 (10 questões · mínimo para concluir o ciclo: 8/10)
 
+[← Voltar à lição](licao.md) · [🏠 Trilha](../README.md)
+
 **1.** *Sito novo cuà da 'ste bande?* significa:
 a) Você está bem por aqui?  b) É novo por estas bandas?  c) Onde ficam estas bandas?  d) Você mora aqui perto?
 
@@ -52,3 +54,7 @@ a) ao sul  b) a leste  c) ao norte  d) dentro da cidade
 **≥ 8:** faça a prova prática (encenar os dois diálogos de cabeça, gravado, com seus dados) e **o Ciclo Básico está concluído — Sté ben!** 🦁🐺
 **< 8:** revise a lição e as etapas indicadas nos erros; refaça amanhã.
 </details>
+
+---
+
+**Fez ≥ 8/10 e a prova prática?** 🎓 **Ciclo Básico concluído!** [🏠 Voltar à trilha](../README.md)

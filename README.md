@@ -13,16 +13,16 @@ Baseado nas Aulas 1–4 e Fundamentos do curso **Łengua Mare** (Fernando Menega
 
 ## Trilha
 
-| Etapa | Tema | Status |
-|---|---|---|
-| [01](etapa-01-sons/licao.md) | Sons e alfabeto | ☐ |
-| [02](etapa-02-dialogo-minimo/licao.md) | Diálogo mínimo (saudações) | ☐ |
-| [03](etapa-03-cliticos/licao.md) | Clíticos de sujeito | ☐ |
-| [04](etapa-04-esar-essere/licao.md) | Verbo ser — èsar / essere | ☐ |
-| [05](etapa-05-verbos-ar/licao.md) | Verbos regulares -ar / -are | ☐ |
-| [06](etapa-06-interrogativa/licao.md) | Interrogativa vêneta | ☐ |
-| [07](etapa-07-primeiras-frases/licao.md) | Primeiras frases + bússola | ☐ |
-| [08](etapa-08-dialogos/licao.md) | Diálogos-modelo (prova final) | ☐ |
+| Etapa | Lição | Exercícios | Status |
+|---|---|---|---|
+| 01 | [Sons e alfabeto](etapa-01-sons/licao.md) | [✍️ 10 questões](etapa-01-sons/exercicios.md) | ☐ |
+| 02 | [Diálogo mínimo (saudações)](etapa-02-dialogo-minimo/licao.md) | [✍️ 10 questões](etapa-02-dialogo-minimo/exercicios.md) | ☐ |
+| 03 | [Clíticos de sujeito](etapa-03-cliticos/licao.md) | [✍️ 10 questões](etapa-03-cliticos/exercicios.md) | ☐ |
+| 04 | [Verbo ser — èsar / essere](etapa-04-esar-essere/licao.md) | [✍️ 10 questões](etapa-04-esar-essere/exercicios.md) | ☐ |
+| 05 | [Verbos regulares -ar / -are](etapa-05-verbos-ar/licao.md) | [✍️ 10 questões](etapa-05-verbos-ar/exercicios.md) | ☐ |
+| 06 | [Interrogativa vêneta](etapa-06-interrogativa/licao.md) | [✍️ 10 questões](etapa-06-interrogativa/exercicios.md) | ☐ |
+| 07 | [Primeiras frases + bússola](etapa-07-primeiras-frases/licao.md) | [✍️ 10 questões](etapa-07-primeiras-frases/exercicios.md) | ☐ |
+| 08 | [Diálogos-modelo (prova final)](etapa-08-dialogos/licao.md) | [✍️ 10 questões](etapa-08-dialogos/exercicios.md) | ☐ |
 
 Marque ☑ ao concluir (edite este README — o commit vira seu registro de progresso).
 

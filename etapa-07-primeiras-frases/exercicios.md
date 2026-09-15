@@ -1,5 +1,7 @@
 # Exercícios de fixação — Etapa 7 (10 questões · mínimo para avançar: 8/10)
 
+[← Voltar à lição](licao.md) · [🏠 Trilha](../README.md)
+
 **1.** "Eu pego o pão":
 a) Mi ciapo il pan  b) Mi ciapo el pan  c) Ciapo el pane  d) Mi el ciapo pan
 
@@ -49,3 +51,7 @@ a) está de pé em  b) mora em  c) vai para  d) nasceu em
 
 **Sua nota:** ___/10 → ≥ 8: Etapa 8 · < 8: refaça amanhã.
 </details>
+
+---
+
+**Fez ≥ 8/10?** [➡️ Avance: Etapa 8 — Diálogos-modelo](../etapa-08-dialogos/licao.md)

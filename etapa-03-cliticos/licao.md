@@ -30,3 +30,9 @@ O toscano "simplificou consoantes finais"; o vêneto as transformou e manteve. R
 ## Critério para avançar
 
 Traduzir sem olhar, com clítico certo no vêneto e sem clítico no italiano: "ele é alto", "ela está em casa", "eles estão na praça", "ele tem um gato".
+
+---
+
+## ✍️ [FAZER OS EXERCÍCIOS DESTA ETAPA →](exercicios.md)
+
+[🏠 Trilha](../README.md) · [← Etapa anterior](../etapa-02-dialogo-minimo/licao.md) · [Próxima etapa →](../etapa-04-esar-essere/licao.md)

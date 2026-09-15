@@ -1,5 +1,7 @@
 # Exercícios de fixação — Etapa 5 (10 questões · mínimo para avançar: 8/10)
 
+[← Voltar à lição](licao.md) · [🏠 Trilha](../README.md)
+
 **1.** "Tu ligas" (inpisar):
 a) Ti te inpisa  b) Ti te inpisi  c) Ti inpisi  d) Tu inpisi
 
@@ -49,3 +51,7 @@ a) eła ła rivi  b) eła ła riva  c) eła riva  d) eła ła rive
 
 **Sua nota:** ___/10 → ≥ 8: Etapa 6 · < 8: refaça amanhã.
 </details>
+
+---
+
+**Fez ≥ 8/10?** [➡️ Avance: Etapa 6 — Interrogativa vêneta](../etapa-06-interrogativa/licao.md)

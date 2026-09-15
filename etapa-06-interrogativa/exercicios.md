@@ -1,5 +1,7 @@
 # Exercícios de fixação — Etapa 6 (10 questões · mínimo para avançar: 8/10)
 
+[← Voltar à lição](licao.md) · [🏠 Trilha](../README.md)
+
 **1.** "Mi parlo" em pergunta:
 a) Parlo mi?  b) Pàrloi mi?  c) Pàrlito mi?  d) Mi parlo?
 
@@ -49,3 +51,7 @@ a) italiano (*tu parli?*)  b) espanhol  c) francês (*parles-tu?*)  d) portuguê
 
 **Sua nota:** ___/10 → ≥ 8: Etapa 7 · < 8: refaça amanhã.
 </details>
+
+---
+
+**Fez ≥ 8/10?** [➡️ Avance: Etapa 7 — Primeiras frases + bússola](../etapa-07-primeiras-frases/licao.md)

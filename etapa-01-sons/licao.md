@@ -35,3 +35,9 @@ O vêneto que você vai aprender usa a **grafia vêneta unitária**, cujo princ�
 ## Critério para avançar
 
 Ler em voz alta, sem hesitar nem trocar sons: *łengua, góndoła, caza, grasie, manjar, zerman / pizza, lasagna, professore, esistere* — e explicar de cabeça por que "casa" vira *caza*.
+
+---
+
+## ✍️ [FAZER OS EXERCÍCIOS DESTA ETAPA →](exercicios.md)
+
+[🏠 Trilha](../README.md) · [Próxima etapa →](../etapa-02-dialogo-minimo/licao.md)

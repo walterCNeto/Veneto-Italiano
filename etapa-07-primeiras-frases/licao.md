@@ -42,3 +42,9 @@ As frases-modelo da Atividade 13, para decorar como pares lugar-direção:
 ## Critério para avançar
 
 8 frases próprias no molde + as 8 perguntas; *vènjar* conjugado; e 4 pares "mora em X, vem de Y" com o advérbio certo.
+
+---
+
+## ✍️ [FAZER OS EXERCÍCIOS DESTA ETAPA →](exercicios.md)
+
+[🏠 Trilha](../README.md) · [← Etapa anterior](../etapa-06-interrogativa/licao.md) · [Próxima etapa →](../etapa-08-dialogos/licao.md)

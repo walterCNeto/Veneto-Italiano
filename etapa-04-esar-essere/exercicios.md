@@ -1,5 +1,7 @@
 # Exercícios de fixação — Etapa 4 (10 questões · mínimo para avançar: 8/10)
 
+[← Voltar à lição](licao.md) · [🏠 Trilha](../README.md)
+
 **1.** "Tu és daqui" em vêneto:
 a) Ti si de cuà  b) Ti te si de cuà  c) Tu sei de cuà  d) Ti te ze de cuà
 
@@ -49,3 +51,7 @@ a) inglês *I am eating*  b) francês *je suis en train de manger*  c) espanhol 
 
 **Sua nota:** ___/10 → ≥ 8: Etapa 5 · < 8: refaça amanhã.
 </details>
+
+---
+
+**Fez ≥ 8/10?** [➡️ Avance: Etapa 5 — Verbos -ar / -are](../etapa-05-verbos-ar/licao.md)

@@ -1,5 +1,7 @@
 # Exercícios de fixação — Etapa 1 (10 questões · mínimo para avançar: 8/10)
 
+[← Voltar à lição](licao.md) · [🏠 Trilha](../README.md)
+
 Responda todas antes de abrir o gabarito no final.
 
 **1.** Como se escreve "casa" em vêneto (som de zebra)?
@@ -51,3 +53,7 @@ a) é abreviação  b) o vêneto não tem duplas e o som surdo se escreve S  c) 
 
 **Sua nota:** ___/10 → ≥ 8 (80%): avance à Etapa 2 · < 8: releia a lição e refaça amanhã.
 </details>
+
+---
+
+**Fez ≥ 8/10?** [➡️ Avance: Etapa 2 — Diálogo mínimo](../etapa-02-dialogo-minimo/licao.md)
