@@ -1,71 +1,51 @@
-# Exercícios de fixação — Etapa 3
+# Exercícios de fixação — Etapa 3 (10 questões · mínimo para avançar: 8/10)
 
-**1.** Complete com o clítico correto (te, el, ła, i, łe): a) Ti ___ si de Pàdoa. b) Marco ___ parla veneto. c) Marìa ___ ze braa. d) Łori ___ ze in piasa. e) Łe tóze ___ canta.
+**1.** Complete: Marco ___ parla veneto.
+a) (nada)  b) el  c) lo  d) il
 
-<details><summary>Gabarito 1</summary>
+**2.** Complete: Łe tóze ___ canta.
+a) łe  b) i  c) ła  d) el
 
-a) te · b) el · c) ła · d) i · e) łe
-</details>
+**3.** Qual frase vêneta está CORRETA?
+a) Łu ze alto  b) Łu el ze alto  c) El łu ze alto  d) Łu è alto
 
-**2.** Certo ou errado? Corrija: **Łu ze alto.**
+**4.** Qual frase italiana está CORRETA?
+a) Lui el è stanco  b) Lui è stanco  c) Lui ze stanco  d) El è stanco
 
-<details><summary>Gabarito 2</summary>
+**5.** A regra do sujeito em vêneto:
+a) sujeito opcional e nulo  b) sujeito exige reforço obrigatório: o pronome clítico  c) nunca se usa pronome  d) clítico só em ambiguidade
 
-Errado — falta o clítico: **Łu el ze alto.**
-</details>
+**6.** Em *Marco el parla*, o "el" aparece porque:
+a) "Marco" é estrangeiro  b) o clítico é concordância obrigatória, mesmo com sujeito expresso  c) ênfase opcional  d) marca de pergunta
 
-**3.** Certo ou errado? Corrija: **Lui el è stanco.** (italiano)
+**7.** "Ze" e "è" vêm do latim:
+a) *habet*  b) *sedet*  c) *est*  d) *stat*
 
-<details><summary>Gabarito 3</summary>
+**8.** "Ga" e "ha" vêm do latim:
+a) *est*  b) *habet*  c) *facit*  d) *dat*
 
-Errado — italiano não tem clítico de sujeito: **Lui è stanco** (ou só *È stanco*).
-</details>
+**9.** No caminho de *habet* → *ga*, o vêneto:
+a) perdeu tudo  b) endureceu o B em G, mantendo consoante forte  c) trocou H por G  d) copiou do alemão
 
-**4.** Por que *Marco el parla* leva "el" se o sujeito "Marco" já está dito?
+**10.** Nos clíticos obrigatórios, o vêneto se parece mais com:
+a) o italiano  b) o espanhol  c) o francês (galo-românico)  d) o latim clássico
 
-<details><summary>Gabarito 4</summary>
+---
 
-Porque o clítico é obrigatório: funciona como concordância grudada ao verbo, não como pronome substituto. Nome + clítico convivem sempre.
-</details>
+<details><summary>📋 GABARITO</summary>
 
-**5.** Traduza para as DUAS línguas: "Ela está em casa."
+| # | Resp. | Por quê |
+|---|---|---|
+| 1 | **b** | 3ª masc. sing. = el, mesmo com nome dito |
+| 2 | **a** | 3ª fem. plural = łe |
+| 3 | **b** | falta clítico em (a); (d) mistura línguas |
+| 4 | **b** | italiano não tem clítico de sujeito |
+| 5 | **b** | a marca registrada da língua |
+| 6 | **b** | concordância soldada ao verbo |
+| 7 | **c** | est → ze (S→Z) / è (queda) |
+| 8 | **b** | habet → ga (B→G) / ha (queda) |
+| 9 | **b** | consoante forte preservada |
+| 10 | **c** | como *il parle / parles-tu?* |
 
-<details><summary>Gabarito 5</summary>
-
-🦁 Eła ła ze caza · 🐺 (Lei) è a casa
-</details>
-
-**6.** Traduza para as DUAS línguas: "Eles estão na praça."
-
-<details><summary>Gabarito 6</summary>
-
-🦁 Łori i ze in piasa · 🐺 (Loro) sono in piazza
-</details>
-
-**7.** Traduza para as DUAS línguas: "Ele tem um gato."
-
-<details><summary>Gabarito 7</summary>
-
-🦁 Łu el ga un gato · 🐺 (Lui) ha un gatto
-</details>
-
-**8.** De que palavra latina vêm *ze* e *è*? O que cada língua fez com a consoante?
-
-<details><summary>Gabarito 8</summary>
-
-De *est*. O vêneto transformou o S em som de Z (*ze*); o toscano deixou a consoante cair (*è*).
-</details>
-
-**9.** De que palavra latina vêm *ga* e *ha*? Idem.
-
-<details><summary>Gabarito 9</summary>
-
-De *habet*. O vêneto endureceu o B em G (*ga*); o italiano perdeu H e B (*ha*).
-</details>
-
-**10.** Em qual ponto a gramática vêneta se parece mais com o francês do que com o italiano? Dê o exemplo francês análogo.
-
-<details><summary>Gabarito 10</summary>
-
-Nos clíticos obrigatórios de sujeito (e, adiante, na inversão interrogativa): fr. *il parle / parles-tu?* ~ vec. *el parla / pàrlito?* — comportamento galo-românico.
+**Sua nota:** ___/10 → ≥ 8: Etapa 4 · < 8: refaça amanhã.
 </details>

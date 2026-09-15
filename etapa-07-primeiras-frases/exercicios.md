@@ -1,71 +1,51 @@
-# Exercícios de fixação — Etapa 7
+# Exercícios de fixação — Etapa 7 (10 questões · mínimo para avançar: 8/10)
 
-**1.** Traduza no molde completo 🦁: a) Eu pego o pão. b) Ela pega as roupas. c) Nós pegamos o caminho longo. d) Eles pegam o trem.
+**1.** "Eu pego o pão":
+a) Mi ciapo il pan  b) Mi ciapo el pan  c) Ciapo el pane  d) Mi el ciapo pan
 
-<details><summary>Gabarito 1</summary>
+**2.** "Elas pegam as roupas":
+a) Łore łe ciapa łe robe  b) Łore i ciapa le robe  c) Łore ciapano łe robe  d) Łe ciapa łore robe
 
-a) Mi ciapo el pan · b) Eła ła ciapa łe robe · c) Nuantri ciapemo ła strada łonga · d) Łori i ciapa el tren
-</details>
+**3.** O artigo de *strada* (ła strada łonga) e de *tren*:
+a) el / ła  b) ła / el  c) łe / i  d) i / łe
 
-**2.** Troque o verbo mantendo o molde 🦁: a) Eu procuro o gato. b) Tu achas o livro. c) Ele leva o pão. d) Nós ajudamos.
+**4.** "Eu procuro o gato" (bizegar):
+a) Mi bizego el gato  b) Mi bizegar el gato  c) Mi cato el gato  d) Mi bizego il gatto
 
-<details><summary>Gabarito 2</summary>
+**5.** "voltar" e "entrar" em vêneto:
+a) tornar / ndar rento  b) rivar / ndar fora  c) pasar / ndar via  d) córar / ndar in volta
 
-a) Mi bizego el gato · b) Ti te cati el łibro · c) Łu el mena (porta) el pan · d) Nuantri jutemo
-</details>
+**6.** *El vien ___ da Trevizo* (quem fala mora em Veneza; Treviso é ao norte):
+a) su  b) zo  c) fora  d) rento
 
-**3.** Escolha o artigo (el/ła/i/łe): ___ łibro · ___ bała · ___ robe · ___ tren · ___ strada.
+**7.** *El sior Palladio el ze de star a Bełun; el vien ___ da Vicensa* (Vicenza ao sul):
+a) su  b) zo  c) fora  d) via
 
-<details><summary>Gabarito 3</summary>
+**8.** De Veneza, alguém de Vicenza (mesma latitude, a oeste) *vien ___*:
+a) su  b) zo  c) fora  d) rento
 
-el łibro · ła bała · łe robe · el tren · ła strada
-</details>
+**9.** *El zugador el ze de star in Ałemania, ma el vien ___ da Varona*:
+a) zo  b) fora  c) su  d) rento
 
-**4.** Passe para pergunta: "Eła ła ciapa el can" e "Łore łe ciapa łe robe".
+**10.** *Ze de star a* significa:
+a) está de pé em  b) mora em  c) vai para  d) nasceu em
 
-<details><summary>Gabarito 4</summary>
+---
 
-Ciàpeła eła el can? · Ciàpełe łore łe robe?
-</details>
+<details><summary>📋 GABARITO</summary>
 
-**5.** Do vocabulário-motor, dê o vêneto de: fazer · achar · procurar · ajudar · deixar.
+| # | Resp. | Por quê |
+|---|---|---|
+| 1 | **b** | artigo el + pan sem vogal final |
+| 2 | **a** | clítico łe + artigo łe |
+| 3 | **b** | ła strada (fem.) / el tren (masc.) |
+| 4 | **a** | bizegar = procurar (catar = achar) |
+| 5 | **a** | tornar (ndar indrìo) / ndar rento |
+| 6 | **b** | do norte desce → zo |
+| 7 | **a** | do sul sobe → su |
+| 8 | **c** | lateral (leste–oeste) → fora |
+| 9 | **c** | Verona ao sul da Alemanha → su |
+| 10 | **b** | "é de estar em" = residir |
 
-<details><summary>Gabarito 5</summary>
-
-far · catar · bizegar · jutar (dar na man) · łasar (dasar)
-</details>
-
-**6.** E de: ir · voltar · entrar · sair · passear · partir.
-
-<details><summary>Gabarito 6</summary>
-
-ndar · tornar (ndar indrìo) · ndar rento · ndar fora · ndar in volta · ndar via (inviarse)
-</details>
-
-**7.** Bússola — complete com su, zo ou fora: a) El ze de star a Venesia, ma el vien ___ da Trevizo. b) El sior Palladio el ze de star a Bełun; el vien ___ da Vicensa. c) El ze de star a Roigo, ma el auto el vien ___ da Bełun.
-
-<details><summary>Gabarito 7</summary>
-
-a) zo (Treviso ao norte) · b) su (Vicenza ao sul de Belluno) · c) zo (tudo desce até Rovigo)
-</details>
-
-**8.** Complete: d) El zugador el ze de star in Ałemania, ma el vien ___ da Varona. e) (Venesia → Vicensa, mesma latitude) El vien ___ da Vicensa.
-
-<details><summary>Gabarito 8</summary>
-
-d) su (Verona ao sul da Alemanha) · e) fora (lateral — mesma altura no mapa)
-</details>
-
-**9.** O que significam *ze de star a* e *darento*? Traduza: "Da ndóe sito venjesto fora ti? Darento Venesia?"
-
-<details><summary>Gabarito 9</summary>
-
-*ze de star a* = mora em · *darento* = de dentro. "De onde você veio? De dentro de Veneza?"
-</details>
-
-**10.** Monte 2 pares seus no molde *el ze de star a X + el vien … da Y* com cidades reais (ex.: São Paulo ↔ Campinas ↔ Santos) e justifique o advérbio pela posição no mapa.
-
-<details><summary>Exemplo 10</summary>
-
-*El ze de star a San Paolo, ma el vien **su** da Santos* (Santos ao sul, litoral ↑) · *El ze de star a San Paolo, ma el vien **zo** da Campinas* (Campinas ao norte ↓). O critério é sempre a posição relativa.
+**Sua nota:** ___/10 → ≥ 8: Etapa 8 · < 8: refaça amanhã.
 </details>

@@ -6,8 +6,8 @@ Baseado nas Aulas 1–4 e Fundamentos do curso **Łengua Mare** (Fernando Menega
 ## Como estudar
 
 1. Cada etapa = uma pasta, na ordem. Leia a `licao.md`, **em voz alta**.
-2. Faça os **10 exercícios de fixação** da `exercicios.md` **sem consultar a lição**. Cada questão tem gabarito escondido — clique em "Gabarito" só depois de responder.
-3. Critério para avançar: **90% de acerto falando, sem ler**. Errou mais? Refaz amanhã.
+2. Faça as **10 questões de múltipla escolha** da `exercicios.md` **sem consultar a lição**, anotando suas respostas. Só então abra o **gabarito ao final** e some os pontos.
+3. Critério para avançar: **mínimo 8/10 (80%)**. Abaixo disso, releia a lição e refaça amanhã.
 4. Regra do espelho: tudo que disser numa língua, diga imediatamente na outra.
 5. Sessões de 15–20 min. Melhor todo dia pouco do que muito uma vez.
 

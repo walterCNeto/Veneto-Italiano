@@ -1,71 +1,51 @@
-# Exercícios de fixação — Etapa 2
+# Exercícios de fixação — Etapa 2 (10 questões · mínimo para avançar: 8/10)
 
-**1.** Traduza para o vêneto coloquial: a) Olá! b) Como vai? c) Estou bem. E você? d) Obrigado. e) Tchau, fica bem.
+**1.** "Olá" informal em vêneto:
+a) Ciao  b) Salve  c) Sani  d) Prego
 
-<details><summary>Gabarito 1</summary>
+**2.** "Como você está?" informal em vêneto:
+a) Come stai?  b) Come steto?  c) Come sta?  d) Come stéu vu?
 
-a) Sani! · b) Come steto? / Come vała? · c) Sto ben mi. E ti, cosa dìzito? · d) Grasie · e) Ciai! Stame ben.
-</details>
+**3.** A resposta informal vêneta "Estou bem. E você, o que diz?":
+a) Sto bene. E tu, che si dice?  b) Sto ben mi. E ti, cosa dìzito?  c) Sté co Dio  d) Sciavo vostro
 
-**2.** Traduza para o italiano formal: a) Olá, como o senhor está? b) Preciso ir. Até logo. c) Agradeço muito. d) Não há de quê, imagine.
+**4.** "Fiquem bem" (PLURAL) em vêneto:
+a) Stame ben  b) Sté ben  c) Steme ben  d) State bene
 
-<details><summary>Gabarito 2</summary>
+**5.** "De nada" em italiano:
+a) Prego  b) No'l ze njente  c) Gramersè  d) Grasie
 
-a) Salve! Come sta? · b) Devo andare. Arrivederci! · c) La ringrazio molto · d) Non c'è di che, si figuri.
-</details>
+**6.** "De nada" em vêneto:
+a) Prego  b) Si figuri  c) No'l ze njente  d) Non c'è di che
 
-**3.** Responda no mesmo registro/língua, devolvendo pergunta quando couber: **Sciavo vostro!**
+**7.** A palavra que era FORMAL em vêneto e virou o INFORMAL italiano *ciao*:
+a) Sani  b) Sciavo (vostro)  c) Salve  d) Sté
 
-<details><summary>Gabarito 3</summary>
+**8.** "Tenho que ir" — as formas vêneta e italiana são:
+a) Devo ndar / Me toca andare  b) Me toca ndar via / Devo andare  c) Toco ndar / Andare devo  d) Vado via / Me ne vado
 
-Sciavo vostro! Come stéu vu? (versão completa: Sior paron, sciavo vostro. Come stéu vu?)
-</details>
+**9.** O *-me* de *Stame ben* é:
+a) objeto direto  b) dativo ético (afeto, sem função gramatical)  c) reflexivo obrigatório  d) erro de grafia
 
-**4.** Responda: **Come stéu vu?**
+**10.** A fórmula vêneta ancestral do nosso "obrigado":
+a) Gramersè  b) Dio ve ło renda  c) Ve son obligà  d) Grasie tanto
 
-<details><summary>Gabarito 4</summary>
+---
 
-Sto ben mi. E vu, che niove me ła meneviu?
-</details>
+<details><summary>📋 GABARITO</summary>
 
-**5.** Responda: **Gramersè.** E depois: **La ringrazio.**
+| # | Resp. | Por quê |
+|---|---|---|
+| 1 | **c** | Sani! (de *stè sani*); Ciao/Salve são italianos |
+| 2 | **b** | clítico -to; a/c são italianos, d é formal |
+| 3 | **b** | ben sem -e, *mi* pós-verbal, *dìzito* com -ito |
+| 4 | **c** | Steme = plural; Stame = singular; d é italiano |
+| 5 | **a** | Prego; b/c são vênetos |
+| 6 | **c** | "não é nada"; a/b/d são italianos |
+| 7 | **b** | sciavo → s-ciao → ciao (e ciai no vêneto) |
+| 8 | **b** | impessoal *me toca* vs. pessoal *devo* |
+| 9 | **b** | "fica bem *pra mim*" |
+| 10 | **c** | "vos sou obrigado" — o português guardou só o particípio |
 
-<details><summary>Gabarito 5</summary>
-
-Gramersè → No'l ze njente (ou Ve son servo). · La ringrazio → Non c'è di che, si figuri.
-</details>
-
-**6.** "Fiquem bem" (plural) em vêneto: *Stame ben* ou *Steme ben*? Explique a diferença.
-
-<details><summary>Gabarito 6</summary>
-
-**Steme ben** — *Stame* é singular (tu), *Steme* é plural. O *-me* é o dativo ético, afeto sem função gramatical.
-</details>
-
-**7.** Que palavra é FORMAL em vêneto mas virou INFORMAL em italiano? Conte o trajeto.
-
-<details><summary>Gabarito 7</summary>
-
-*Sciavo (vostro)* "vosso servo" → desgaste → *s-ciao* → **ciao** (informal universal); no vêneto moderno, **ciai**.
-</details>
-
-**8.** Compare a obrigação: como se diz "tenho que ir" nas duas línguas, e qual é a diferença estrutural?
-
-<details><summary>Gabarito 8</summary>
-
-🦁 *Me toca ndar via* — construção impessoal ("me toca"). 🐺 *Devo andare* — verbo pessoal conjugado. E *ndar* = *andare* com aférese.
-</details>
-
-**9.** Qual fórmula vêneta é o "ancestral" do nosso "obrigado"? Traduza-a literalmente.
-
-<details><summary>Gabarito 9</summary>
-
-*Ve son obligà* = "vos sou obrigado". O português manteve só o particípio.
-</details>
-
-**10.** Encene de cabeça (falando!) o diálogo completo nos 4 formatos: 🦁 informal, 🦁 formal, 🐺 informal, 🐺 formal. Grave e confira com as tabelas.
-
-<details><summary>Roteiro de conferência 10</summary>
-
-Cada versão precisa ter: saudação → como vai? → resposta com devolução → despedida em duas partes (aviso + fórmula). Formal vêneto com *vu* (stéu/sté), formal italiano com *Lei* (sta/si prenda).
+**Sua nota:** ___/10 → ≥ 8: Etapa 3 · < 8: refaça amanhã.
 </details>

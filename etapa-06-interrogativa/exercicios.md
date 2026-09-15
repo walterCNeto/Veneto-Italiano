@@ -1,71 +1,51 @@
-# Exercícios de fixação — Etapa 6
+# Exercícios de fixação — Etapa 6 (10 questões · mínimo para avançar: 8/10)
 
-**1.** Transforme em pergunta: a) Mi parlo b) Ti te canti c) Eła ła inpisa d) Nuantri ciapemo.
+**1.** "Mi parlo" em pergunta:
+a) Parlo mi?  b) Pàrloi mi?  c) Pàrlito mi?  d) Mi parlo?
 
-<details><summary>Gabarito 1</summary>
+**2.** "Ti te canti" em pergunta:
+a) Càntoi ti?  b) Cànteło ti?  c) Càntito ti?  d) Canti ti?
 
-a) Pàrloi mi? · b) Càntito ti? · c) Inpìseła eła? · d) Ciapemoi nuantri?
-</details>
+**3.** "Eła ła inpisa" em pergunta:
+a) Inpìseło eła?  b) Inpìseła eła?  c) Inpìsito eła?  d) Inpisa eła?
 
-**2.** Transforme em pergunta: e) Vualtri parlè f) Łori i canta g) Łu el vien h) Mi poso.
+**4.** "Nuantri ciapemo" em pergunta:
+a) Ciapemoi nuantri?  b) Ciapemo nuantri?  c) Ciapèo nuantri?  d) Ciàpoi nuantri?
 
-<details><summary>Gabarito 2</summary>
+**5.** "Vualtri parlè" em pergunta:
+a) Parlèi vualtri?  b) Parlèo vualtri?  c) Pàrlełi vualtri?  d) Parlemoi vualtri?
 
-e) Parlèo vualtri? · f) Càntełi łori? · g) Vènjeło łu? · h) Pòsoi?
-</details>
+**6.** Com o verbo ZBEREGAR (gritar), "tu gritas?":
+a) Zberégoi ti?  b) Zberegh-to?  c) Zberéghito ti?  d) Zberégheło ti?
 
-**3.** As 8 perguntas com objeto da Aula 4 — traduza: Eu pego o livro? / Tu pegas a bola? / Ele pega o gato? / Ela pega o cão?
+**7.** *Come se dìzeło "computador" in veneto?* — o *dìzeło* usa a terminação de:
+a) tu (-ito)  b) ele/impessoal (-eło)  c) vós (-èo)  d) eu (-oi)
 
-<details><summary>Gabarito 3</summary>
+**8.** "Posso fazer uma pergunta?" em vêneto:
+a) Poso far na dimanda?  b) Pòsoi far na dimanda?  c) Pòsito far na dimanda?  d) Posso fare una domanda?
 
-Ciàpoi mi el łibro? · Ciàpito ti ła bała? · Ciàpeło łu el gato? · Ciàpeła eła el can?
-</details>
+**9.** Por que *steto?* dispensa o "ti"?
+a) o ti é proibido na pergunta  b) a terminação -to já identifica a pessoa; o tônico é só ênfase  c) é abreviação informal  d) erro do material
 
-**4.** Continue: Nós pegamos o trem? / Vós pegais o caminho longo? / Eles pegam o pão? / Elas pegam as roupas?
+**10.** Qual língua conserva, como o vêneto, a inversão sujeito–verbo na pergunta?
+a) italiano (*tu parli?*)  b) espanhol  c) francês (*parles-tu?*)  d) português
 
-<details><summary>Gabarito 4</summary>
+---
 
-Ciapemoi nuantri el tren? · Ciapèo vualtri ła strada łonga? · Ciàpełi łori el pan? · Ciàpełe łore łe robe?
-</details>
+<details><summary>📋 GABARITO</summary>
 
-**5.** Dado o verbo ZBEREGAR (gritar), monte: "eu grito?" e "tu gritas?".
+| # | Resp. | Por quê |
+|---|---|---|
+| 1 | **b** | -oi (1ª) |
+| 2 | **c** | -ito (2ª) |
+| 3 | **b** | -eła (3ª fem.) |
+| 4 | **a** | -emoi |
+| 5 | **b** | -èo |
+| 6 | **c** | afirmativo + -ito, bloco soldado |
+| 7 | **b** | "como SE DIZ" = 3ª/impessoal |
+| 8 | **b** | mi poso → pòsoi |
+| 9 | **b** | a forma já diz a pessoa |
+| 10 | **c** | o vêneto soldou o que o francês hifeniza |
 
-<details><summary>Gabarito 5</summary>
-
-Zberégoi? · Zberéghito? — afirmativo + terminação (-oi, -ito).
-</details>
-
-**6.** Qual é a diferença entre *dizito?* e *dìzeło?*
-
-<details><summary>Gabarito 6</summary>
-
-*dizito?* = "dizes (tu)?" (-ito) · *dìzeło?* = "diz (ele)?" (-eło), inclusive no impessoal *come se dìzeło?* = "como se diz?".
-</details>
-
-**7.** Situação de aula — diga em vêneto: a) perguntar como se diz "obrigado" b) perguntar o que "sciavo" quer dizer.
-
-<details><summary>Gabarito 7</summary>
-
-a) Come se dìzeło "obrigado" in veneto? · b) Come vółeło dir "sciavo"?
-</details>
-
-**8.** Situação de aula: c) pedir para fazer uma pergunta d) dizer que não entendeu nada.
-
-<details><summary>Gabarito 8</summary>
-
-c) Pòsoi far na dimanda? · d) No go capìo njente.
-</details>
-
-**9.** Compare as três línguas na pergunta "tu falas?": vêneto, italiano, francês. O que o vêneto e o francês têm em comum?
-
-<details><summary>Gabarito 9</summary>
-
-🦁 *Pàrlito (ti)?* · 🐺 *Parli? / Tu parli?* (só entonação) · 🇫🇷 *Parles-tu?* — vêneto e francês conservam a inversão sujeito–verbo; o vêneto a soldou numa terminação.
-</details>
-
-**10.** Por que *steto?* dispensa o "ti", mas *e ti, cosa dizito?* o inclui?
-
-<details><summary>Gabarito 10</summary>
-
-A terminação -to já identifica a pessoa (tu), então o tônico é redundante; entra só para ênfase/contraste ("e VOCÊ?").
+**Sua nota:** ___/10 → ≥ 8: Etapa 7 · < 8: refaça amanhã.
 </details>

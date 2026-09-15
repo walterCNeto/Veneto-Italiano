@@ -1,71 +1,51 @@
-# Exercícios de fixação — Etapa 4
+# Exercícios de fixação — Etapa 4 (10 questões · mínimo para avançar: 8/10)
 
-**1.** Complete a afirmação 🦁: a) Eu sou professor: Mi ___ mistro. b) Tu és daqui: Ti ___ ___ de cuà. c) Ele é alto: Łu ___ ___ alto. d) Ela está em casa: Eła ___ ___ caza.
+**1.** "Tu és daqui" em vêneto:
+a) Ti si de cuà  b) Ti te si de cuà  c) Tu sei de cuà  d) Ti te ze de cuà
 
-<details><summary>Gabarito 1</summary>
+**2.** "Eles estão na praça" em vêneto:
+a) Łori ze in piasa  b) Łori i ze in piasa  c) Łori sono in piasa  d) Łori łe ze in piasa
 
-a) son · b) te si · c) el ze · d) ła ze
-</details>
+**3.** "Ela está em casa?" (pergunta) em vêneto:
+a) Zeła eła caza?  b) Eła ła ze caza?  c) Zeło eła caza?  d) È lei a casa?
 
-**2.** Continue: e) Nós estamos prontos: Nuantri ___ parecià. f) Vós sois fortes: Vualtri ___ forti. g) Eles estão na praça: Łori ___ ___ in piasa. h) Elas são boas: Łore ___ ___ brae.
+**4.** "Nós estamos prontos?" em vêneto:
+a) Semo parecià?  b) Semoi parecià?  c) Siamo parecià?  d) Sio parecià?
 
-<details><summary>Gabarito 2</summary>
+**5.** A negação vêneta "eu não sou":
+a) Mi non son  b) Mi no son mìa  c) No mi son  d) Mi son no
 
-e) semo · f) si · g) i ze · h) łe ze
-</details>
+**6.** O *mìa* da negação vêneta equivale funcionalmente ao:
+a) *non* italiano  b) *pas* francês  c) *no* espanhol  d) *not* inglês
 
-**3.** Passe TODAS as oito para pergunta 🦁.
+**7.** "Estou casado" usa qual verbo, nas duas línguas?
+a) star/stare  b) èsar/essere  c) gaver/avere  d) far/fare
 
-<details><summary>Gabarito 3</summary>
+**8.** "Fica aqui!" em vêneto:
+a) Sté cuà!  b) Stà cuà!  c) Son cuà!  d) Resta chi!
 
-Soi mi mistro? · Sito ti de cuà? · Zeło alto? · Zeła eła caza? · Semoi parecià? · Sio vualtri forti? · Zełi in piasa? · Zełe brae?
-</details>
+**9.** "Estou comendo" em vêneto:
+a) Sto manjando  b) Son drio manjar  c) Stago manjar  d) Manjo adeso
 
-**4.** Negue nas duas línguas: "Eu não sou de Verona."
+**10.** A estrutura *son drio + infinitivo* é gêmea de qual construção?
+a) inglês *I am eating*  b) francês *je suis en train de manger*  c) espanhol *estoy comiendo*  d) italiano *sto mangiando*
 
-<details><summary>Gabarito 4</summary>
+---
 
-🦁 Mi no son mìa de Varona · 🐺 Io non sono di Verona
-</details>
+<details><summary>📋 GABARITO</summary>
 
-**5.** Negue em pergunta 🦁: "tu não és?" — e diga qual palavra faz o papel do "pas" francês.
+| # | Resp. | Por quê |
+|---|---|---|
+| 1 | **b** | clítico *te* obrigatório; *ze* é 3ª pessoa |
+| 2 | **b** | clítico *i* (masc. pl.) |
+| 3 | **a** | interrogativo -eła + tônico opcional |
+| 4 | **b** | -emoi (semo + i) |
+| 5 | **b** | moldura no…mìa |
+| 6 | **b** | reforço pós-verbal da negação |
+| 7 | **b** | estado civil = ser (Mi son maridà / Sono sposato) |
+| 8 | **b** | star de permanência, imperativo *stà* (Sté = vós) |
+| 9 | **b** | èsar + drio, exclusivo do vêneto |
+| 10 | **b** | *en train de* — traço galo-românico |
 
-<details><summary>Gabarito 5</summary>
-
-No te sito mìa ti? — o **mìa** é o reforço negativo, análogo ao *pas*.
-</details>
-
-**6.** Èsar ou star? Traduza 🦁: "Estou casado."
-
-<details><summary>Gabarito 6</summary>
-
-Èsar → **Mi son maridà** (estado civil usa ser, não estar).
-</details>
-
-**7.** Èsar ou star? Traduza 🦁 e 🐺: "Como você está?" / "Estou bem."
-
-<details><summary>Gabarito 7</summary>
-
-Star (saúde): 🦁 Come steto? / Stago ben · 🐺 Come stai? / Sto bene.
-</details>
-
-**8.** Traduza 🦁 e 🐺: "Fica aqui!"
-
-<details><summary>Gabarito 8</summary>
-
-Star (permanência): 🦁 Stà cuà! · 🐺 Stai qui!
-</details>
-
-**9.** "Estou comendo": dê a forma italiana e a vêneta, nomeando a estrutura de cada.
-
-<details><summary>Gabarito 9</summary>
-
-🐺 *Sto mangiando* (stare + gerúndio) · 🦁 *Son drio manjar* (èsar + drio + infinitivo — presente progressivo vêneto, tipo o francês *en train de*).
-</details>
-
-**10.** Qual é a variante de *el ze / ła ze* anotada pelo professor? Monte "ele é" e "ela é" nessa variante.
-
-<details><summary>Gabarito 10</summary>
-
-**l'è**: *łu l'è* · *eła l'è*.
+**Sua nota:** ___/10 → ≥ 8: Etapa 5 · < 8: refaça amanhã.
 </details>

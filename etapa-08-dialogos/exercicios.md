@@ -1,73 +1,54 @@
-# Exercícios de fixação — Etapa 8 (prova final)
+# Exercícios de fixação — Etapa 8 (10 questões · mínimo para concluir o ciclo: 8/10)
 
-**1.** Traduza sem olhar: "Bondì! Come steto? Sito novo cuà da 'ste bande?"
+**1.** *Sito novo cuà da 'ste bande?* significa:
+a) Você está bem por aqui?  b) É novo por estas bandas?  c) Onde ficam estas bandas?  d) Você mora aqui perto?
 
-<details><summary>Gabarito 1</summary>
+**2.** "Me chamo Marco" em vêneto:
+a) Mi ciamo Marco  b) Mi me ciamo Marco  c) Me son Marco  d) Mi chiamo Marco
 
-Bom dia! Como está? É novo por estas bandas?
-</details>
+**3.** "Prazer em te conhecer" em vêneto:
+a) Piacere di conoscerti  b) Me fa gran piazer conjósarte  c) Piazer mio  d) Sciavo vostro
 
-**2.** Como Marco responde "Sim, sou. Me chamo Marco" em vêneto? E Bortolo em italiano?
+**4.** *Da ndóe sito venjesto fora ti?* pergunta:
+a) para onde você vai  b) de onde você veio (saiu)  c) por onde você passou  d) quando você chegou
 
-<details><summary>Gabarito 2</summary>
+**5.** "Sou de Pádua, e você?" em vêneto:
+a) Sono di Padova, e tu?  b) Mi son de Pàdoa, e ti?  c) Mi ze de Pàdoa, e ti?  d) Son mi de Pàdoa, e vu?
 
-🦁 Sì, son. Mi me ciamo Marco. · 🐺 Sì, io sono. Mi chiamo Bortolo.
-</details>
+**6.** *Zeła ła prima 'olta che te vien cuà?* — o *zeła* concorda com:
+a) o falante  b) *ła 'olta* (a vez, fem.)  c) Venesia  d) o interlocutor
 
-**3.** "Prazer em te conhecer" nas duas línguas — e a resposta ("o prazer é meu / prazer também").
+**7.** *Go un fià el cor che'l me scioca* — o *go* vem do latim:
+a) est  b) vado  c) habet  d) facio
 
-<details><summary>Gabarito 3</summary>
+**8.** No museu: *Ma zeło meser? — Nò, no'l ze mìa.* O *no'l* é:
+a) erro de digitação  b) no + el (negação com clítico contraído)  c) nome próprio  d) advérbio de lugar
 
-🦁 Me fa gran piazer conjósarte → Piazer anca a mi · 🐺 Piacere di conoscerti → Il piacere è mio.
-</details>
+**9.** *Co chi zeło drio ciacołar?* usa qual estrutura da Etapa 4?
+a) negação no…mìa  b) progressivo com drio ("está conversando")  c) dativo ético  d) bússola su/zo
 
-**4.** Pergunte a origem nas duas línguas e responda "sou de Pádua, e você?" / "sou de Verona, e você?".
+**10.** *E da ndóe vènjeło? — El vien zo da Trevizo.* O *zo* indica que Treviso está:
+a) ao sul  b) a leste  c) ao norte  d) dentro da cidade
 
-<details><summary>Gabarito 4</summary>
+---
 
-🦁 Da ndóe sito (venjesto fora ti)? — Mi son de Pàdoa, e ti? · 🐺 Di dove sei? — Sono di Verona, e tu?
-</details>
+<details><summary>📋 GABARITO</summary>
 
-**5.** "É a primeira vez que você vem aqui?" nas duas línguas. Que terminação interrogativa aparece no vêneto?
+| # | Resp. | Por quê |
+|---|---|---|
+| 1 | **b** | 'ste bande = estas bandas |
+| 2 | **b** | reflexivo: mi ME ciamo |
+| 3 | **b** | resposta: Piazer anca a mi |
+| 4 | **b** | venjesto fora = vindo/saído (bússola lateral) |
+| 5 | **b** | son de + ti informal |
+| 6 | **b** | -eła fem. concordando com "ła 'olta" |
+| 7 | **c** | habet → ga/go |
+| 8 | **b** | no+el = no'l, com mìa reforçando |
+| 9 | **b** | zeło DRIO ciacołar = está no meio de conversar |
+| 10 | **c** | do norte desce → zo |
 
-<details><summary>Gabarito 5</summary>
+**Sua nota:** ___/10
 
-🦁 Zeła ła prima 'olta che te vien cuà? (-eła, concordando com *ła 'olta*) · 🐺 È la prima volta che vieni qui?
-</details>
-
-**6.** O que significa "Go un fià el cor che'l me scioca"? De que verbo latino vem esse *go*?
-
-<details><summary>Gabarito 6</summary>
-
-"Estou com o coração meio disparado" (lit. "tenho um pouco o coração que me estala"). *Go* ← *habet* (o "ga/go" da Etapa 3).
-</details>
-
-**7.** Rento el muzèo — responda em vêneto: a) Chi zeło łu? (é um homem) b) Ndóe zeło? (mora em Veneza) c) Cosa fało de łaoro? (é soldado).
-
-<details><summary>Gabarito 7</summary>
-
-a) Łu el ze un omo · b) El ze de star a Venesia · c) Łu el ze soldà
-</details>
-
-**8.** Continue: d) Zeło meser? (não!) e) Da ndóe vènjeło? (vem de Treviso, ao norte). O que é o "no'l" da resposta d?
-
-<details><summary>Gabarito 8</summary>
-
-d) Nò, no'l ze mìa · e) El vien zo da Trevizo. — *no'l* = *no + el*: negação com clítico contraído.
-</details>
-
-**9.** Tradução cruzada 🦁→🐺: a) Sito novo cuà da 'ste bande? b) Mi son de Pàdoa, e ti? c) Anca mi.
-
-<details><summary>Gabarito 9</summary>
-
-a) Sei nuovo da queste parti? · b) Sono di Padova, e tu? · c) Anch'io.
-</details>
-
-**10.** Prova final: encene os DOIS diálogos de cabeça, fazendo os dois papéis, com seus dados reais (nome, cidade). Grave no vocaroo.com e confira pronúncia (Etapa 1) e estruturas.
-
-<details><summary>Checklist 10</summary>
-
-☐ Diálogo 🦁 completo falado · ☐ Diálogo 🐺 completo falado · ☐ Personalizado (Mi me ciamo Walter, mi son de San Paolo…) · ☐ Ł, Z, S corretos · ☐ Clíticos em todas as frases vênetas · ☐ Rento el muzèo respondido sem consulta.
-
-Tudo marcado? **Ciclo Básico concluído — Sté ben!** 🦁🐺
+**≥ 8:** faça a prova prática (encenar os dois diálogos de cabeça, gravado, com seus dados) e **o Ciclo Básico está concluído — Sté ben!** 🦁🐺
+**< 8:** revise a lição e as etapas indicadas nos erros; refaça amanhã.
 </details>
