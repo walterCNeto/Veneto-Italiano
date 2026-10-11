@@ -1,7 +1,7 @@
 ﻿# Curso Vêneto & Italiano — Ciclo Básico 🦁🐺
 
 Aprendizado simultâneo das duas línguas, do som à primeira conversa.
-Baseado nas Aulas 1$16 e Fundamentos do curso **Łengua Mare** (Fernando Menegatti).
+Baseado nas Aulas 1–6 e Fundamentos do curso **Łengua Mare** (Fernando Menegatti).
 
 ## Como estudar
 
@@ -13,7 +13,7 @@ Baseado nas Aulas 1$16 e Fundamentos do curso **Łengua Mare** (Fernando Menegat
 
 ## Trilha
 
-### Módulo 1 — Ciclo Básico (Aulas 1$16)
+### Módulo 1 — Ciclo Básico (Aulas 1–6)
 
 | Etapa | Lição | Exercícios | Status |
 |---|---|---|---|
