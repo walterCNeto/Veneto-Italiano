@@ -13,6 +13,8 @@ Baseado nas Aulas 1–4 e Fundamentos do curso **Łengua Mare** (Fernando Menega
 
 ## Trilha
 
+### Módulo 1 — Ciclo Básico (Aulas 1–4)
+
 | Etapa | Lição | Exercícios | Status |
 |---|---|---|---|
 | 01 | [Sons e alfabeto](etapa-01-sons/licao.md) | [✍️ 10 questões](etapa-01-sons/exercicios.md) | ☐ |
@@ -23,6 +25,15 @@ Baseado nas Aulas 1–4 e Fundamentos do curso **Łengua Mare** (Fernando Menega
 | 06 | [Interrogativa vêneta](etapa-06-interrogativa/licao.md) | [✍️ 10 questões](etapa-06-interrogativa/exercicios.md) | ☐ |
 | 07 | [Primeiras frases + bússola](etapa-07-primeiras-frases/licao.md) | [✍️ 10 questões](etapa-07-primeiras-frases/exercicios.md) | ☐ |
 | 08 | [Diálogos-modelo (prova final)](etapa-08-dialogos/licao.md) | [✍️ 10 questões](etapa-08-dialogos/exercicios.md) | ☐ |
+
+### Módulo 2 — Expansão (Aulas 5–6)
+
+| Etapa | Lição | Exercícios | Status |
+|---|---|---|---|
+| 09 | [Verbos essenciais — gaver, far, ndar, poder…](etapa-09-verbos-essenciais/licao.md) | [✍️ 10 questões](etapa-09-verbos-essenciais/exercicios.md) | ☐ |
+| 10 | [Progressivo "drio", artigos e Batalzia de Cioza](etapa-10-progressivo-artigos/licao.md) | [✍️ 10 questões](etapa-10-progressivo-artigos/exercicios.md) | ☐ |
+
+**Referência permanente:** [📖 Anexo — Principais Verbos](anexo-principais-verbos.md) (20 verbos em afirmativo · negativo · interrogativo)
 
 Marque ☑ ao concluir (edite este README — o commit vira seu registro de progresso).
 

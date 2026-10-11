@@ -59,4 +59,4 @@ Encenar os dois diálogos de cabeça fazendo os dois papéis, gravar-se, e respo
 
 ## ✍️ [FAZER OS EXERCÍCIOS DESTA ETAPA →](exercicios.md)
 
-[🏠 Trilha](../README.md) · [← Etapa anterior](../etapa-07-primeiras-frases/licao.md)
+[🏠 Trilha](../README.md) · [← Etapa anterior](../etapa-07-primeiras-frases/licao.md) · [Próxima etapa →](../etapa-09-verbos-essenciais/licao.md)

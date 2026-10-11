@@ -97,4 +97,4 @@ d) dentro da cidade
 
 ---
 
-**Fez ≥ 8/10 e a prova prática?** 🎓 **Ciclo Básico concluído!** [🏠 Voltar à trilha](../README.md)
+**Fez ≥ 8/10 e a prova prática?** 🎓 **Ciclo Básico (Módulo 1) concluído!** [➡️ Siga para o Módulo 2: Etapa 9 — Verbos essenciais](../etapa-09-verbos-essenciais/licao.md)
