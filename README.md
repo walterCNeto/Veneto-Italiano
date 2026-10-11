@@ -1,4 +1,4 @@
-﻿# Curso Vêneto & Italiano — Ciclo Básico 🦁🐺
+# Curso Vêneto & Italiano — Ciclo Básico 🦁🐺
 
 Aprendizado simultâneo das duas línguas, do som à primeira conversa.
 Baseado nas Aulas 1–6 e Fundamentos do curso **Łengua Mare** (Fernando Menegatti).
@@ -13,26 +13,20 @@ Baseado nas Aulas 1–6 e Fundamentos do curso **Łengua Mare** (Fernando Menega
 
 ## Trilha
 
-### Módulo 1 — Ciclo Básico (Aulas 1–6)
+| Etapa | Módulo | Lição | Exercícios | Status |
+|:---:|:---:|---|:---:|:---:|
+| 01 | 1 — Básico | [Sons e alfabeto](etapa-01-sons/licao.md) | [✍️ 10 questões](etapa-01-sons/exercicios.md) | ☐ |
+| 02 | 1 — Básico | [Diálogo mínimo (saudações)](etapa-02-dialogo-minimo/licao.md) | [✍️ 10 questões](etapa-02-dialogo-minimo/exercicios.md) | ☐ |
+| 03 | 1 — Básico | [Clíticos de sujeito](etapa-03-cliticos/licao.md) | [✍️ 10 questões](etapa-03-cliticos/exercicios.md) | ☐ |
+| 04 | 1 — Básico | [Verbo ser — èsar / essere](etapa-04-esar-essere/licao.md) | [✍️ 10 questões](etapa-04-esar-essere/exercicios.md) | ☐ |
+| 05 | 1 — Básico | [Verbos regulares -ar / -are](etapa-05-verbos-ar/licao.md) | [✍️ 10 questões](etapa-05-verbos-ar/exercicios.md) | ☐ |
+| 06 | 1 — Básico | [Interrogativa vêneta](etapa-06-interrogativa/licao.md) | [✍️ 10 questões](etapa-06-interrogativa/exercicios.md) | ☐ |
+| 07 | 1 — Básico | [Primeiras frases + bússola](etapa-07-primeiras-frases/licao.md) | [✍️ 10 questões](etapa-07-primeiras-frases/exercicios.md) | ☐ |
+| 08 | 1 — Básico | [Diálogos-modelo (prova final)](etapa-08-dialogos/licao.md) | [✍️ 10 questões](etapa-08-dialogos/exercicios.md) | ☐ |
+| 09 | 2 — Expansão | [Verbos essenciais — gaver, far, ndar, poder…](etapa-09-verbos-essenciais/licao.md) | [✍️ 10 questões](etapa-09-verbos-essenciais/exercicios.md) | ☐ |
+| 10 | 2 — Expansão | [Progressivo "drio", artigos e Batalzia de Cioza](etapa-10-progressivo-artigos/licao.md) | [✍️ 10 questões](etapa-10-progressivo-artigos/exercicios.md) | ☐ |
 
-| Etapa | Lição | Exercícios | Status |
-|---|---|---|---|
-| 01 | [Sons e alfabeto](etapa-01-sons/licao.md) | [✍️ 10 questões](etapa-01-sons/exercicios.md) | ☐ |
-| 02 | [Diálogo mínimo (saudações)](etapa-02-dialogo-minimo/licao.md) | [✍️ 10 questões](etapa-02-dialogo-minimo/exercicios.md) | ☐ |
-| 03 | [Clíticos de sujeito](etapa-03-cliticos/licao.md) | [✍️ 10 questões](etapa-03-cliticos/exercicios.md) | ☐ |
-| 04 | [Verbo ser — èsar / essere](etapa-04-esar-essere/licao.md) | [✍️ 10 questões](etapa-04-esar-essere/exercicios.md) | ☐ |
-| 05 | [Verbos regulares -ar / -are](etapa-05-verbos-ar/licao.md) | [✍️ 10 questões](etapa-05-verbos-ar/exercicios.md) | ☐ |
-| 06 | [Interrogativa vêneta](etapa-06-interrogativa/licao.md) | [✍️ 10 questões](etapa-06-interrogativa/exercicios.md) | ☐ |
-| 07 | [Primeiras frases + bússola](etapa-07-primeiras-frases/licao.md) | [✍️ 10 questões](etapa-07-primeiras-frases/exercicios.md) | ☐ |
-| 08 | [Diálogos-modelo (prova final)](etapa-08-dialogos/licao.md) | [✍️ 10 questões](etapa-08-dialogos/exercicios.md) | ☐ |
-
-### Módulo 2 — Expansão (Aulas 5–6)
-
-| Etapa | Lição | Exercícios | Status |
-|---|---|---|---|
-| 09 | [Verbos essenciais — gaver, far, ndar, poder…](etapa-09-verbos-essenciais/licao.md) | [✍️ 10 questões](etapa-09-verbos-essenciais/exercicios.md) | ☐ |
-| 10 | [Progressivo "drio", artigos e Batalzia de Cioza](etapa-10-progressivo-artigos/licao.md) | [✍️ 10 questões](etapa-10-progressivo-artigos/exercicios.md) | ☐ |
-
+**Módulo 1 — Ciclo Básico** (Aulas 1–4) · **Módulo 2 — Expansão** (Aulas 5–6)
 **Referência permanente:** [📖 Anexo — Principais Verbos](anexo-principais-verbos.md) (20 verbos em afirmativo · negativo · interrogativo)
 
 Marque ☑ ao concluir (edite este README — o commit vira seu registro de progresso).
